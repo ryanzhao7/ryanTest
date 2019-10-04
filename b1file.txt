@@ -1,1 +1,2 @@
-b1 content
+
+b1 &master content
