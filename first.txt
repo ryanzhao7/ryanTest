@@ -5,7 +5,16 @@ add wrong1
 WRONG2
 wrong3
 
+
 dev branch log -- bug fixed
 git dev todo
 
 add by user 2
+dev branch log
+
+bugfix2
+master going on
+
+HEAD
+master add
+master add
