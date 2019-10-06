@@ -10,4 +10,8 @@ dev branch log
 bugfix2
 master going on
 
+<<<<<<< HEAD
 master add
+=======
+fix3 add
+>>>>>>> fix3
