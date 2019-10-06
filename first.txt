@@ -8,4 +8,10 @@ wrong3
 dev branch log -- bug fixed
 git dev todo
 
+<<<<<<< HEAD
 add by user 1
+=======
+
+add user 2
+>>>>>>> 7d8632fdd930926d00ce6ce91d8d0119398d9bc8
+merge
