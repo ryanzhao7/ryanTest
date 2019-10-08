@@ -18,3 +18,5 @@ master going on
 HEAD
 master add
 master add
+
+git desktop add
